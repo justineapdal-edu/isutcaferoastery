@@ -1,0 +1,1554 @@
+{
+ "url": "http://localhost:3123/menu",
+ "at": "2026-11-03T08:01:51.673Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.31,
+    0.45,
+    0.57,
+    0.96
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 4,
+    "transitions": 7,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3094,
+     "screens": 3.4,
+     "words": 244,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fcappuccino.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Ficed.jpg&w=384&q=75",
+      "image?url=%2Fphotos%2Fensaymada.jpg&w=384&q=75",
+      "image?url=%2Fphotos%2Fpour-over.jpg&w=384&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "What’s on the bar",
+     "words": 4,
+     "chars": 17,
+     "lines": 2,
+     "size": 84,
+     "vw": 5.8,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.32,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "What’s on the bar",
+     "words": 4,
+     "lines": 2,
+     "size": 84,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "What’s on the bar",
+      "words": 4,
+      "chars": 17,
+      "lines": 2,
+      "size": 84,
+      "vw": 5.8,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Beans by the bag",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1883,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ordering for a group?",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2388,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 2659,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.12,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      21,
+      25,
+      52,
+      84,
+      101
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 33,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 2563,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.49
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.43
+      },
+      {
+       "color": "#223c28",
+       "share": 0.05
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Espresso bar",
+      "Manual brew",
+      "Not coffee",
+      "To eat"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.12
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3094,
+    "margins": {
+     "left": 144,
+     "right": 144
+    },
+    "sections": [
+     {
+      "sel": "section.section.section--top",
+      "tag": "section",
+      "top": 72,
+      "height": 831,
+      "words": 64,
+      "media": 1,
+      "middle": 131,
+      "heading": {
+       "text": "What’s on the bar",
+       "size": 84,
+       "tag": "h1"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 144,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 903,
+      "height": 734,
+      "words": 7,
+      "media": 3,
+      "middle": 32,
+      "heading": null,
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 317,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#beans.section",
+      "tag": "section",
+      "top": 1637,
+      "height": 631,
+      "words": 51,
+      "media": 0,
+      "middle": 170,
+      "heading": {
+       "text": "Beans by the bag",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 155,
+      "textLeft": 144,
+      "textRight": 155,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 2268,
+      "height": 295,
+      "words": 12,
+      "media": 0,
+      "middle": 229,
+      "heading": {
+       "text": "Ordering for a group?",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 169,
+      "textLeft": 144,
+      "textRight": 169,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 2563,
+      "height": 531,
+      "words": 93,
+      "media": 0,
+      "middle": 17,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 101,
+       "tag": "p"
+      },
+      "left": 144,
+      "right": 222,
+      "textLeft": 144,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "What’s on the bar",
+      "size": 84,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 144,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 4,
+    "bodySize": 21,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.17,
+    "voidBox": {
+     "x": 960,
+     "y": 180,
+     "w": 300,
+     "h": 720
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.66,
+    0.51,
+    0.45,
+    0.85,
+    0.92
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 4,
+    "transitions": 7,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4146,
+     "screens": 4,
+     "words": 244,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fcappuccino.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Ficed.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fensaymada.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fpour-over.jpg&w=828&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "What’s on the bar",
+     "words": 4,
+     "chars": 17,
+     "lines": 1,
+     "size": 54.4,
+     "vw": 7.1,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.55,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "What’s on the bar",
+     "words": 4,
+     "lines": 1,
+     "size": 54.4,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "What’s on the bar",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 54.4,
+      "vw": 7.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Beans by the bag",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 2679,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ordering for a group?",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 3345,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3646,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.12,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      19,
+      20,
+      25,
+      35,
+      54
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 54.4,
+      "vw": 7.1,
+      "font": "Vollkorn",
+      "text": "What’s on the bar"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 284,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.49
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.43
+      },
+      {
+       "color": "#223c28",
+       "share": 0.05
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Espresso bar",
+      "Manual brew",
+      "Not coffee",
+      "To eat"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.49
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4146,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.section.section--top",
+      "tag": "section",
+      "top": 72,
+      "height": 1454,
+      "words": 64,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What’s on the bar",
+       "size": 54,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 1526,
+      "height": 1057,
+      "words": 7,
+      "media": 3,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 269,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#beans.section",
+      "tag": "section",
+      "top": 2583,
+      "height": 682,
+      "words": 51,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Beans by the bag",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 25,
+      "textLeft": 24,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 3265,
+      "height": 285,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ordering for a group?",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 330,
+      "textLeft": 24,
+      "textRight": 330,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3550,
+      "height": 596,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 54,
+       "tag": "p"
+      },
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "What’s on the bar",
+      "size": 54,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 4,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.55,
+    0.46,
+    0.39,
+    0.91,
+    0.98
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 4,
+    "transitions": 7,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 3711,
+     "screens": 4.4,
+     "words": 238,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fcappuccino.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Ficed.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fensaymada.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fpour-over.jpg&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "What’s on the bar",
+     "words": 4,
+     "chars": 17,
+     "lines": 1,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "What’s on the bar",
+     "words": 4,
+     "lines": 1,
+     "size": 44,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Isut",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "What’s on the bar",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Beans by the bag",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 1961,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ordering for a group?",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 2780,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3113,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      20,
+      25,
+      32,
+      40,
+      44
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 21,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Vollkorn",
+      "text": "What’s on the bar"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 3017,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.49
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.44
+      },
+      {
+       "color": "#223c28",
+       "share": 0.04
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Espresso bar",
+      "Manual brew",
+      "Not coffee",
+      "To eat"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.29
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 3711,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.section.section--top",
+      "tag": "section",
+      "top": 72,
+      "height": 1224,
+      "words": 64,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What’s on the bar",
+       "size": 44,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 1296,
+      "height": 592,
+      "words": 7,
+      "media": 3,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 88,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#beans.section",
+      "tag": "section",
+      "top": 1889,
+      "height": 835,
+      "words": 51,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Beans by the bag",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 31,
+      "textLeft": 16,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 2724,
+      "height": 294,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ordering for a group?",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 61,
+      "textLeft": 16,
+      "textRight": 61,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3017,
+      "height": 693,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 40,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "What’s on the bar",
+      "size": 44,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 4,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f7f1df, section #eee6d1, text #f8f5ea).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 11 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "WARN",
+   "id": "lopsided",
+   "width": 768,
+   "message": "A section keeps its content on one side and leaves 330px of the width empty: \"Ordering for a group?\".",
+   "fix": "Fill the other side with what the section has (its picture, a second column, the figure), or defend the void in one sentence."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/menu/desktop-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/menu/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/menu/tablet-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/menu/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/menu/mobile-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/menu/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

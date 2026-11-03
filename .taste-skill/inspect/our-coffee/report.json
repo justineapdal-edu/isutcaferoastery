@@ -1,0 +1,1870 @@
+{
+ "url": "http://localhost:3123/our-coffee",
+ "at": "2026-11-03T08:02:10.984Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.45,
+    0.45,
+    0.61,
+    0.8,
+    0.96
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 0,
+    "transitions": 11,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3783,
+     "screens": 4.2,
+     "words": 291,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fcherries.jpg&w=1080&q=75",
+      "image?url=%2Fphotos%2Fnursery.jpg&w=384&q=75",
+      "image?url=%2Fphotos%2Fslopes.jpg&w=384&q=75",
+      "image?url=%2Fphotos%2Fgreen-beans.jpg&w=384&q=75",
+      "image?url=%2Fphotos%2Froast-cooling.jpg&w=384&q=",
+      "image?url=%2Fphotos%2Fbcc-beans.jpg&w=750&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "One coffee, seed to cup",
+     "words": 5,
+     "chars": 23,
+     "lines": 2,
+     "size": 60,
+     "vw": 4.2,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.31,
+     "top": 353,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "One coffee, seed to cup",
+     "words": 5,
+     "lines": 2,
+     "size": 60,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "One coffee, seed to cup",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 353,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "How it gets to your cup",
+      "words": 6,
+      "chars": 23,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.66,
+      "top": 1062,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Specialty Green Grade, four years running",
+      "words": 6,
+      "chars": 41,
+      "lines": 2,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 1935,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "2020 to 2023",
+      "words": 3,
+      "chars": 12,
+      "lines": 2,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1937,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "In the cup",
+      "words": 3,
+      "chars": 10,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.16,
+      "top": 2413,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Taste it in Cainta",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 3077,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 3348,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      21,
+      25,
+      52,
+      60,
+      101
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 33,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "2020 to 2023"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 136,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      },
+      {
+       "color": "#072311",
+       "top": 1815,
+       "hsl": {
+        "h": 141,
+        "s": 0.67,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.62
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.27
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.09
+      },
+      {
+       "color": "#223c28",
+       "share": 0.02
+      },
+      {
+       "color": "#c3dba6",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "See the menu",
+      "Meet the farm"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 6,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.33
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "hanken grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3783,
+    "margins": {
+     "left": 144,
+     "right": 144
+    },
+    "sections": [
+     {
+      "sel": "section.stage",
+      "tag": "section",
+      "top": 72,
+      "height": 846,
+      "words": 28,
+      "media": 1,
+      "middle": 175,
+      "heading": {
+       "text": "One coffee, seed to cup",
+       "size": 60,
+       "tag": "h1"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 481,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 918,
+      "height": 898,
+      "words": 91,
+      "media": 4,
+      "middle": 32,
+      "heading": {
+       "text": "How it gets to your cup",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 166,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-ink",
+      "tag": "section",
+      "top": 1815,
+      "height": 434,
+      "words": 22,
+      "media": 0,
+      "middle": 266,
+      "heading": {
+       "text": "2020 to 2023",
+       "size": 101,
+       "tag": "span"
+      },
+      "left": 144,
+      "right": 173,
+      "textLeft": 144,
+      "textRight": 173,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2249,
+      "height": 708,
+      "words": 34,
+      "media": 1,
+      "middle": 131,
+      "heading": {
+       "text": "In the cup",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 155,
+      "textLeft": 835,
+      "textRight": 155,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 2957,
+      "height": 295,
+      "words": 10,
+      "media": 0,
+      "middle": 436,
+      "heading": {
+       "text": "Taste it in Cainta",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 169,
+      "textLeft": 144,
+      "textRight": 169,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3252,
+      "height": 531,
+      "words": 93,
+      "media": 0,
+      "middle": 17,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 101,
+       "tag": "p"
+      },
+      "left": 144,
+      "right": 222,
+      "textLeft": 144,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "One coffee, seed to cup",
+      "size": 60,
+      "top": 353,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 144,
+      "n": 4
+     },
+     {
+      "x": 736,
+      "n": 2
+     },
+     {
+      "x": 835,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.12,
+    "voidBox": {
+     "x": 0,
+     "y": 660,
+     "w": 660,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.63,
+    0.66,
+    0.78,
+    0.53,
+    0.92
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 0,
+    "transitions": 11,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4901,
+     "screens": 4.8,
+     "words": 291,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fcherries.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fnursery.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fslopes.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fgreen-beans.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Froast-cooling.jpg&w=828&q=",
+      "image?url=%2Fphotos%2Fbcc-beans.jpg&w=828&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "One coffee, seed to cup",
+     "words": 5,
+     "chars": 23,
+     "lines": 1,
+     "size": 38.7,
+     "vw": 5,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.51,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "One coffee, seed to cup",
+     "words": 5,
+     "lines": 1,
+     "size": 38.7,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "One coffee, seed to cup",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 38.7,
+      "vw": 5,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "How it gets to your cup",
+      "words": 6,
+      "chars": 23,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 1101,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "2020 to 2023",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2562,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Specialty Green Grade, four years running",
+      "words": 6,
+      "chars": 41,
+      "lines": 2,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 2677,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "In the cup",
+      "words": 3,
+      "chars": 10,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 3609,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Taste it in Cainta",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 4100,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4401,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      19,
+      20,
+      25,
+      35,
+      39,
+      54
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "2020 to 2023"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 367,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      },
+      {
+       "color": "#072311",
+       "top": 2482,
+       "hsl": {
+        "h": 141,
+        "s": 0.67,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.62
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.27
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.09
+      },
+      {
+       "color": "#223c28",
+       "share": 0.02
+      },
+      {
+       "color": "#c3dba6",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "See the menu",
+      "Meet the farm"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 6,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.49
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4901,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.stage",
+      "tag": "section",
+      "top": 72,
+      "height": 933,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "One coffee, seed to cup",
+       "size": 39,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 306,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1005,
+      "height": 1478,
+      "words": 91,
+      "media": 4,
+      "middle": 23,
+      "heading": {
+       "text": "How it gets to your cup",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-ink",
+      "tag": "section",
+      "top": 2482,
+      "height": 427,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "2020 to 2023",
+       "size": 54,
+       "tag": "span"
+      },
+      "left": 24,
+      "right": 276,
+      "textLeft": 24,
+      "textRight": 276,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2909,
+      "height": 1111,
+      "words": 34,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 4020,
+      "height": 285,
+      "words": 10,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Taste it in Cainta",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 416,
+      "textLeft": 24,
+      "textRight": 416,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4305,
+      "height": 596,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 54,
+       "tag": "p"
+      },
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "One coffee, seed to cup",
+      "size": 39,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 7
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.47,
+    0.69,
+    0.71,
+    0.79,
+    0.51,
+    0.98
+   ],
+   "motion": {
+    "elements": 10,
+    "css": 0,
+    "transitions": 10,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5004,
+     "screens": 5.9,
+     "words": 285,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fcherries.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fnursery.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fslopes.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fgreen-beans.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Froast-cooling.jpg&w=640&q=",
+      "image?url=%2Fphotos%2Fbcc-beans.jpg&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "One coffee, seed to cup",
+     "words": 5,
+     "chars": 23,
+     "lines": 2,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "One coffee, seed to cup",
+     "words": 5,
+     "lines": 2,
+     "size": 36,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Isut",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "One coffee, seed to cup",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "How it gets to your cup",
+      "words": 6,
+      "chars": 23,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 838,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "2020 to 2023",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2826,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Specialty Green Grade, four years running",
+      "words": 6,
+      "chars": 41,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2936,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "In the cup",
+      "words": 3,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3540,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Taste it in Cainta",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 4133,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4407,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      20,
+      25,
+      32,
+      36,
+      40,
+      48
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 45,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Vollkorn",
+      "text": "2020 to 2023"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#072311",
+       "top": 2770,
+       "hsl": {
+        "h": 141,
+        "s": 0.67,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#eee6d1",
+       "top": 4311,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.62
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.27
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.09
+      },
+      {
+       "color": "#223c28",
+       "share": 0.01
+      },
+      {
+       "color": "#c3dba6",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "See the menu",
+      "Meet the farm"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 6,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.29
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5004,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.stage",
+      "tag": "section",
+      "top": 72,
+      "height": 694,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "One coffee, seed to cup",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 766,
+      "height": 2004,
+      "words": 91,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "How it gets to your cup",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-ink",
+      "tag": "section",
+      "top": 2770,
+      "height": 365,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "2020 to 2023",
+       "size": 48,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 47,
+      "textLeft": 16,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 3135,
+      "height": 942,
+      "words": 34,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "In the cup",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 4077,
+      "height": 234,
+      "words": 10,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Taste it in Cainta",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 46,
+      "textLeft": 16,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4311,
+      "height": 693,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 40,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "One coffee, seed to cup",
+      "size": 36,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 7
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f7f1df, section #eee6d1, text #f8f5ea).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 11 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 390,
+   "message": "10 different font sizes (13, 14, 16, 18, 20, 25, 32, 36, 40, 48).",
+   "fix": "A page needs about five: display, heading, lead, body, small."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/our-coffee/desktop-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/our-coffee/desktop-page-01.jpg",
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/our-coffee/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/our-coffee/tablet-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/our-coffee/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/our-coffee/mobile-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/our-coffee/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

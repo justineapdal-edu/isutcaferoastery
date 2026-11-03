@@ -1,0 +1,1892 @@
+{
+ "url": "http://localhost:3123/",
+ "at": "2026-11-03T08:01:26.929Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.54,
+    0.19,
+    0.36,
+    0.51,
+    0.65,
+    0.75,
+    0.8
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 1,
+    "transitions": 10,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5636,
+     "screens": 6.3,
+     "words": 344,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Froast-cooling.jpg&w=1920&q",
+      "image?url=%2Fphotos%2Fdomain-panorama.jpg&w=1920",
+      "image?url=%2Fphotos%2Fbcc-bag.jpg&w=750&q=75",
+      "image?url=%2Fphotos%2Fbarista.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fisut-interior.jpg&w=1920&q"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Sierra Madre coffee, roasted in Cainta",
+     "words": 6,
+     "chars": 38,
+     "lines": 2,
+     "size": 80,
+     "vw": 5.6,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.61,
+     "top": 487,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sierra Madre coffee, roasted in Cainta",
+     "words": 6,
+     "lines": 2,
+     "size": 80,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Sierra Madre coffee, roasted in Cainta",
+      "words": 6,
+      "chars": 38,
+      "lines": 2,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 487,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find us in Valley Golf",
+      "words": 5,
+      "chars": 22,
+      "lines": 2,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1044,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“From coffee growing, to processing to roasting and brewing, we have integrated every step of the coffee supply chain to maximize economic value for the Bugkalot.”",
+      "words": 26,
+      "chars": 163,
+      "lines": 3,
+      "size": 32.4,
+      "vw": 2.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 1759,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "One coffee, roasted here",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.32,
+      "top": 2590,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "On the bar today",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 3405,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Inside the café",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 4218,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 5201,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 3,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.79,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.21,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      21,
+      25,
+      32,
+      52,
+      80,
+      101
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 21,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1
+     },
+     "measureChars": 44,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 72,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      },
+      {
+       "color": "#072311",
+       "top": 3285,
+       "hsl": {
+        "h": 141,
+        "s": 0.67,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.5
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.25
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.16
+      },
+      {
+       "color": "#c3dba6",
+       "share": 0.05
+      },
+      {
+       "color": "#223c28",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get directions",
+      "Call 0924 418 2687"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.92
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5636,
+    "margins": {
+     "left": 144,
+     "right": 144
+    },
+    "sections": [
+     {
+      "sel": "section.poster",
+      "tag": "section",
+      "top": 72,
+      "height": 828,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Sierra Madre coffee, roasted in Cainta",
+       "size": 80,
+       "tag": "h1"
+      },
+      "left": 144,
+      "right": 574,
+      "textLeft": 144,
+      "textRight": 574,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#hours.section",
+      "tag": "section",
+      "top": 900,
+      "height": 683,
+      "words": 69,
+      "media": 0,
+      "middle": 184,
+      "heading": {
+       "text": "Find us in Valley Golf",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 160,
+      "textLeft": 144,
+      "textRight": 160,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--l",
+      "tag": "section",
+      "top": 1583,
+      "height": 886,
+      "words": 36,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 449,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 2470,
+      "height": 815,
+      "words": 43,
+      "media": 1,
+      "middle": 131,
+      "heading": {
+       "text": "One coffee, roasted here",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 155,
+      "textLeft": 835,
+      "textRight": 155,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-ink",
+      "tag": "section",
+      "top": 3285,
+      "height": 807,
+      "words": 47,
+      "media": 1,
+      "middle": 320,
+      "heading": {
+       "text": "On the bar today",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 144,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 4092,
+      "height": 1013,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Inside the café",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 171,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 5105,
+      "height": 531,
+      "words": 93,
+      "media": 0,
+      "middle": 17,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 101,
+       "tag": "p"
+      },
+      "left": 144,
+      "right": 222,
+      "textLeft": 144,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Sierra Madre coffee, roasted in Cainta",
+      "size": 80,
+      "top": 487,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 144,
+      "n": 6
+     },
+     {
+      "x": 835,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 32,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.67,
+    0.29,
+    0.63,
+    0.57,
+    0.59,
+    0.79,
+    0.89
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 1,
+    "transitions": 10,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6411,
+     "screens": 6.3,
+     "words": 344,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Froast-cooling.jpg&w=828&q=",
+      "image?url=%2Fphotos%2Fdomain-panorama.jpg&w=828&",
+      "image?url=%2Fphotos%2Fbcc-bag.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fbarista.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fisut-interior.jpg&w=828&q="
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Sierra Madre coffee, roasted in Cainta",
+     "words": 6,
+     "chars": 38,
+     "lines": 2,
+     "size": 46.4,
+     "vw": 6,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.66,
+     "top": 685,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sierra Madre coffee, roasted in Cainta",
+     "words": 6,
+     "lines": 2,
+     "size": 46.4,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Sierra Madre coffee, roasted in Cainta",
+      "words": 6,
+      "chars": 38,
+      "lines": 2,
+      "size": 46.4,
+      "vw": 6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.66,
+      "top": 685,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find us in Valley Golf",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1120,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "One coffee, roasted here",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 3179,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "On the bar today",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 3786,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Inside the café",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 5158,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5910,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.79,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.21,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      19,
+      20,
+      25,
+      26,
+      35,
+      46,
+      54
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 18.7,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1
+     },
+     "measureChars": 58,
+     "max": {
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 72,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      },
+      {
+       "color": "#072311",
+       "top": 3706,
+       "hsl": {
+        "h": 141,
+        "s": 0.67,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.5
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.25
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.16
+      },
+      {
+       "color": "#c3dba6",
+       "share": 0.05
+      },
+      {
+       "color": "#223c28",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get directions",
+      "Call 0924 418 2687"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.93
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6411,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.poster",
+      "tag": "section",
+      "top": 72,
+      "height": 952,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 325,
+      "textLeft": 24,
+      "textRight": 325,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#hours.section",
+      "tag": "section",
+      "top": 1024,
+      "height": 829,
+      "words": 69,
+      "media": 0,
+      "middle": 109,
+      "heading": {
+       "text": "Find us in Valley Golf",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 40,
+      "textLeft": 24,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--l",
+      "tag": "section",
+      "top": 1853,
+      "height": 642,
+      "words": 36,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 2495,
+      "height": 1211,
+      "words": 43,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-ink",
+      "tag": "section",
+      "top": 3706,
+      "height": 1372,
+      "words": 47,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "On the bar today",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 5078,
+      "height": 736,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Inside the café",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 270,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 5814,
+      "height": 596,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 54,
+       "tag": "p"
+      },
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Sierra Madre coffee, roasted in Cainta",
+      "size": 46,
+      "top": 685,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 7
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 26,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.69,
+    0.38,
+    0.58,
+    0.45,
+    0.86,
+    0.58,
+    0.91
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 1,
+    "transitions": 10,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5700,
+     "screens": 6.8,
+     "words": 338,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Froast-cooling.jpg&w=640&q=",
+      "image?url=%2Fphotos%2Fdomain-panorama.jpg&w=640&",
+      "image?url=%2Fphotos%2Fbcc-bag.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fbarista.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fisut-interior.jpg&w=640&q="
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Sierra Madre coffee, roasted in Cainta",
+     "words": 6,
+     "chars": 38,
+     "lines": 2,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 528,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sierra Madre coffee, roasted in Cainta",
+     "words": 6,
+     "lines": 2,
+     "size": 36,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Isut",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Sierra Madre coffee, roasted in Cainta",
+      "words": 6,
+      "chars": 38,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 528,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find us in Valley Golf",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 916,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "One coffee, roasted here",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2763,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "On the bar today",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 3498,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Inside the café",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4547,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5103,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.79,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.21,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      20,
+      24,
+      25,
+      32,
+      36,
+      40
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Vollkorn",
+      "size": 24,
+      "leading": 1.2,
+      "weight": 600,
+      "tracking": -0.012,
+      "contrast": 14.8
+     },
+     "measureChars": 30,
+     "max": {
+      "size": 40,
+      "vw": 10.3,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 72,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      },
+      {
+       "color": "#072311",
+       "top": 3442,
+       "hsl": {
+        "h": 141,
+        "s": 0.67,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.5
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.26
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.16
+      },
+      {
+       "color": "#c3dba6",
+       "share": 0.05
+      },
+      {
+       "color": "#223c28",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get directions",
+      "Call 0924 418 2687"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.91
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5700,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.poster",
+      "tag": "section",
+      "top": 72,
+      "height": 772,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Sierra Madre coffee, roasted in Cainta",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 46,
+      "textLeft": 16,
+      "textRight": 46,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#hours.section",
+      "tag": "section",
+      "top": 844,
+      "height": 775,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Find us in Valley Golf",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 25,
+      "textLeft": 16,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--l",
+      "tag": "section",
+      "top": 1619,
+      "height": 755,
+      "words": 36,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 2374,
+      "height": 1068,
+      "words": 43,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "One coffee, roasted here",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-ink",
+      "tag": "section",
+      "top": 3442,
+      "height": 1048,
+      "words": 47,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "On the bar today",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 4491,
+      "height": 516,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Inside the café",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 5007,
+      "height": 693,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 40,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Sierra Madre coffee, roasted in Cainta",
+      "size": 36,
+      "top": 528,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 7
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 24,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f7f1df, section #eee6d1, text #f8f5ea).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (1:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 11 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 768,
+   "message": "10 different font sizes (13, 14, 16, 19, 20, 25, 26, 35, 46, 54).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/desktop-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/desktop-page-01.jpg",
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/tablet-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/tablet-page-01.jpg",
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/mobile-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/home/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

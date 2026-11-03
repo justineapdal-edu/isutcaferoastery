@@ -1,0 +1,2015 @@
+{
+ "url": "http://localhost:3123/farm",
+ "at": "2026-11-03T08:02:31.920Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.46,
+    0.43,
+    0.78,
+    0.34,
+    0.74
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4338,
+     "screens": 4.8,
+     "words": 304,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fveranda.jpg&w=1080&q=75",
+      "image?url=%2Fphotos%2Fdomain-panorama.jpg&w=1920",
+      "image?url=%2Fphotos%2Fcooperative.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fvalley.jpg&w=750&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The farm in the Sierra Madre",
+     "words": 6,
+     "chars": 28,
+     "lines": 2,
+     "size": 60,
+     "vw": 4.2,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.31,
+     "top": 353,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The farm in the Sierra Madre",
+     "words": 6,
+     "lines": 2,
+     "size": 60,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "The farm in the Sierra Madre",
+      "words": 6,
+      "chars": 28,
+      "lines": 2,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 353,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Coffee country",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.66,
+      "top": 1062,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "900 to 1,200 m",
+      "words": 4,
+      "chars": 14,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 2.7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 1180,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "50 ha",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 2.7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 1180,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "50,000",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 2.7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 1180,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "300+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 2.7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 1180,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Run with the cooperative",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 1975,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "How the partnership works",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 2662,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Every cup at Isut helps",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.32,
+      "top": 3343,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 3902,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      21,
+      25,
+      39,
+      52,
+      60,
+      101
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 21,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 53,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 136,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.66
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.3
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.02
+      },
+      {
+       "color": "#223c28",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "How the coffee is made"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.33
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "hanken grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4338,
+    "margins": {
+     "left": 144,
+     "right": 144
+    },
+    "sections": [
+     {
+      "sel": "section.stage",
+      "tag": "section",
+      "top": 72,
+      "height": 846,
+      "words": 31,
+      "media": 1,
+      "middle": 123,
+      "heading": {
+       "text": "The farm in the Sierra Madre",
+       "size": 60,
+       "tag": "h1"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 475,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 918,
+      "height": 899,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Coffee country",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 259,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 1817,
+      "height": 701,
+      "words": 60,
+      "media": 1,
+      "middle": 131,
+      "heading": {
+       "text": "Run with the cooperative",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 156,
+      "textLeft": 736,
+      "textRight": 156,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2518,
+      "height": 628,
+      "words": 64,
+      "media": 0,
+      "middle": 145,
+      "heading": {
+       "text": "How the partnership works",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 146,
+      "textLeft": 144,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 3146,
+      "height": 660,
+      "words": 21,
+      "media": 1,
+      "middle": 131,
+      "heading": {
+       "text": "Every cup at Isut helps",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 152,
+      "textLeft": 835,
+      "textRight": 152,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3806,
+      "height": 531,
+      "words": 93,
+      "media": 0,
+      "middle": 17,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 101,
+       "tag": "p"
+      },
+      "left": 144,
+      "right": 222,
+      "textLeft": 144,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The farm in the Sierra Madre",
+      "size": 60,
+      "top": 353,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 144,
+      "n": 5
+     },
+     {
+      "x": 736,
+      "n": 3
+     },
+     {
+      "x": 835,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 21,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.12,
+    "voidBox": {
+     "x": 0,
+     "y": 660,
+     "w": 660,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.6,
+    0.47,
+    0.89,
+    0.59,
+    0.72
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5092,
+     "screens": 5,
+     "words": 304,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fveranda.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fdomain-panorama.jpg&w=828&",
+      "image?url=%2Fphotos%2Fcooperative.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fvalley.jpg&w=828&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The farm in the Sierra Madre",
+     "words": 6,
+     "chars": 28,
+     "lines": 2,
+     "size": 38.7,
+     "vw": 5,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.62,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The farm in the Sierra Madre",
+     "words": 6,
+     "lines": 2,
+     "size": 38.7,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "The farm in the Sierra Madre",
+      "words": 6,
+      "chars": 28,
+      "lines": 2,
+      "size": 38.7,
+      "vw": 5,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.62,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Coffee country",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 1141,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "900 to 1,200 m",
+      "words": 4,
+      "chars": 14,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 5.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1266,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "50 ha",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 5.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 1266,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "50,000",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 5.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1429,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "300+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 5.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 1429,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Run with the cooperative",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 2597,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "How the partnership works",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.56,
+      "top": 3003,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Every cup at Isut helps",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 4228,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4592,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      19,
+      20,
+      25,
+      35,
+      39,
+      54
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 18.7,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 73,
+     "max": {
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 407,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.66
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.3
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.02
+      },
+      {
+       "color": "#223c28",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "How the coffee is made"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1242
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.49
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5092,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.stage",
+      "tag": "section",
+      "top": 72,
+      "height": 973,
+      "words": 31,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The farm in the Sierra Madre",
+       "size": 39,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 294,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1045,
+      "height": 888,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "900 to 1,200 m",
+       "size": 39,
+       "tag": "dd"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 200,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 1933,
+      "height": 974,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 70,
+      "textLeft": 24,
+      "textRight": 70,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2907,
+      "height": 638,
+      "words": 64,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "How the partnership works",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 25,
+      "textLeft": 24,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 3544,
+      "height": 951,
+      "words": 21,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 302,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4496,
+      "height": 596,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 54,
+       "tag": "p"
+      },
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The farm in the Sierra Madre",
+      "size": 39,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.49,
+    0.73,
+    0.77,
+    0.62,
+    0.54,
+    0.88
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 0,
+    "transitions": 11,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5036,
+     "screens": 6,
+     "words": 298,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fveranda.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fdomain-panorama.jpg&w=640&",
+      "image?url=%2Fphotos%2Fcooperative.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fvalley.jpg&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The farm in the Sierra Madre",
+     "words": 6,
+     "chars": 28,
+     "lines": 2,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The farm in the Sierra Madre",
+     "words": 6,
+     "lines": 2,
+     "size": 36,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Isut",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "The farm in the Sierra Madre",
+      "words": 6,
+      "chars": 28,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Coffee country",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 838,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "900 to 1,200 m",
+      "words": 4,
+      "chars": 14,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 10,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 960,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "50 ha",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 10,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1122,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "50,000",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 10,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1285,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "300+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 10,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1447,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Run with the cooperative",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2486,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "How the partnership works",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2947,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Every cup at Isut helps",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 4045,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4439,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.12,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      20,
+      25,
+      32,
+      36,
+      39,
+      40
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 18,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 40,
+      "vw": 10.3,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 2064,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.66
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.31
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.02
+      },
+      {
+       "color": "#223c28",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "How the coffee is made"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.29
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5036,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.stage",
+      "tag": "section",
+      "top": 72,
+      "height": 694,
+      "words": 31,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The farm in the Sierra Madre",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 766,
+      "height": 1242,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "900 to 1,200 m",
+       "size": 39,
+       "tag": "dd"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band-moss",
+      "tag": "section",
+      "top": 2008,
+      "height": 867,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Run with the cooperative",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2875,
+      "height": 782,
+      "words": 64,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "How the partnership works",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 31,
+      "textLeft": 16,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 3656,
+      "height": 686,
+      "words": 21,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Every cup at Isut helps",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4343,
+      "height": 693,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 40,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The farm in the Sierra Madre",
+      "size": 36,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f7f1df, section #eee6d1, text #f8f5ea).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 12 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 390,
+   "message": "10 different font sizes (13, 14, 16, 18, 20, 25, 32, 36, 39, 40).",
+   "fix": "A page needs about five: display, heading, lead, body, small."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/farm/desktop-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/farm/desktop-page-01.jpg",
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/farm/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/farm/tablet-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/farm/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/farm/mobile-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/farm/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

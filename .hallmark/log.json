@@ -1,0 +1,38 @@
+[
+ {
+  "shape": "Photographic",
+  "theme": "garden",
+  "axes": "light/roman-serif/chromatic-green",
+  "hero": "Poster",
+  "nav": "edge-aligned",
+  "footer": "mast",
+  "imagery": "photographs, Wikimedia Commons 10, natural",
+  "photos": [
+   "Cooling_time_for_coffee",
+   "Sierra_Madre_Mountain",
+   "Magat_River",
+   "Coffee_arabica_cherry",
+   "Cappuccino_latte_art",
+   "Manual_drip",
+   "Filipino_ensaymada",
+   "Barista_prepares_espresso",
+   "Iced_Coffee_in_Glass",
+   "Barhocker"
+  ],
+  "entry": "none",
+  "sections": [
+   "Poster hero",
+   "Schedule (hours)",
+   "Statement + Showcase",
+   "Grid (bags)",
+   "Rows on ink band"
+  ],
+  "signature": "live open/closed hours in Manila time",
+  "waived": [
+   "42"
+  ],
+  "prompt": "Isut Cafe + Roastery multi-page site",
+  "date": "2026-11-03",
+  "mode": "build"
+ }
+]

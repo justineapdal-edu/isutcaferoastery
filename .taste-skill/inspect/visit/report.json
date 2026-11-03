@@ -1,0 +1,1697 @@
+{
+ "url": "http://localhost:3123/visit",
+ "at": "2026-11-03T08:02:52.692Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.53,
+    0.45,
+    0.32,
+    0.71
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 0,
+    "transitions": 9,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3290,
+     "screens": 3.7,
+     "words": 246,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fisut-interior.jpg&w=1080&q",
+      "image?url=%2Fphotos%2Fbarista.jpg&w=1080&q=75",
+      "image?url=%2Fphotos%2Fcappuccino.jpg&w=384&q=75",
+      "image?url=%2Fphotos%2Fensaymada.jpg&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Come by for a cup",
+     "words": 5,
+     "chars": 17,
+     "lines": 2,
+     "size": 60,
+     "vw": 4.2,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.31,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Come by for a cup",
+     "words": 5,
+     "lines": 2,
+     "size": 60,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Come by for a cup",
+      "words": 5,
+      "chars": 17,
+      "lines": 2,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "What to expect",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.66,
+      "top": 1136,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "5.0",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 84,
+      "vw": 5.8,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 1254,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "25 min to 2.5 hr",
+      "words": 5,
+      "chars": 16,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 2.7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.22,
+      "top": 1254,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "₱1 to ₱500",
+      "words": 3,
+      "chars": 10,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 2.7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.22,
+      "top": 1254,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Ways to reach us",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.32,
+      "top": 2158,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 2854,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      21,
+      25,
+      39,
+      52,
+      60,
+      84,
+      101
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 21,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "text": "Isut Cafe + Roastery"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 136,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.48
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.45
+      },
+      {
+       "color": "#223c28",
+       "share": 0.03
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.02
+      },
+      {
+       "color": "#1f6a19",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get directions",
+      "Call 0924 418 2687"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.33
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3290,
+    "margins": {
+     "left": 144,
+     "right": 144
+    },
+    "sections": [
+     {
+      "sel": "section.counter",
+      "tag": "section",
+      "top": 72,
+      "height": 920,
+      "words": 76,
+      "media": 1,
+      "middle": 112,
+      "heading": {
+       "text": "Come by for a cup",
+       "size": 60,
+       "tag": "h1"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 572,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 992,
+      "height": 1047,
+      "words": 38,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "5.0",
+       "size": 84,
+       "tag": "dd"
+      },
+      "left": 144,
+      "right": 144,
+      "textLeft": 144,
+      "textRight": 237,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 2038,
+      "height": 720,
+      "words": 22,
+      "media": 1,
+      "middle": 131,
+      "heading": {
+       "text": "Ways to reach us",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 224,
+      "textLeft": 835,
+      "textRight": 224,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 2758,
+      "height": 531,
+      "words": 93,
+      "media": 0,
+      "middle": 17,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 101,
+       "tag": "p"
+      },
+      "left": 144,
+      "right": 222,
+      "textLeft": 144,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Come by for a cup",
+      "size": 60,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 144,
+      "n": 2
+     },
+     {
+      "x": 835,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 120,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.43,
+    0.6,
+    0.82,
+    0.53,
+    0.69
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 0,
+    "transitions": 9,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4576,
+     "screens": 4.5,
+     "words": 246,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fisut-interior.jpg&w=828&q=",
+      "image?url=%2Fphotos%2Fbarista.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fcappuccino.jpg&w=828&q=75",
+      "image?url=%2Fphotos%2Fensaymada.jpg&w=828&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Come by for a cup",
+     "words": 5,
+     "chars": 17,
+     "lines": 1,
+     "size": 38.7,
+     "vw": 5,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.4,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Come by for a cup",
+     "words": 5,
+     "lines": 1,
+     "size": 38.7,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Come by for a cup",
+      "words": 5,
+      "chars": 17,
+      "lines": 1,
+      "size": 38.7,
+      "vw": 5,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "What to expect",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 1554,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "5.0",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 54.4,
+      "vw": 7.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1679,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "25 min to 2.5 hr",
+      "words": 5,
+      "chars": 16,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 5.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1884,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "₱1 to ₱500",
+      "words": 3,
+      "chars": 10,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 5.1,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2047,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Ways to reach us",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 3643,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4075,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      19,
+      20,
+      25,
+      35,
+      39,
+      54
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 18.7,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 58,
+     "max": {
+      "size": 54.4,
+      "vw": 7.1,
+      "font": "Vollkorn",
+      "text": "5.0"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 804,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.48
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.45
+      },
+      {
+       "color": "#223c28",
+       "share": 0.03
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.02
+      },
+      {
+       "color": "#1f6a19",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get directions",
+      "Call 0924 418 2687"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.2
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk",
+     "hanken grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4576,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.counter",
+      "tag": "section",
+      "top": 72,
+      "height": 1386,
+      "words": 76,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Come by for a cup",
+       "size": 39,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1458,
+      "height": 1680,
+      "words": 38,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "5.0",
+       "size": 54,
+       "tag": "dd"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 189,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 3139,
+      "height": 841,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Ways to reach us",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 445,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3979,
+      "height": 596,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 54,
+       "tag": "p"
+      },
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Come by for a cup",
+      "size": 39,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.52,
+    0.54,
+    0.71,
+    0.66,
+    0.89
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 0,
+    "transitions": 9,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 3864,
+     "screens": 4.6,
+     "words": 240,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fphotos%2Fisut-interior.jpg&w=640&q=",
+      "image?url=%2Fphotos%2Fbarista.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fcappuccino.jpg&w=640&q=75",
+      "image?url=%2Fphotos%2Fensaymada.jpg&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Come by for a cup",
+     "words": 5,
+     "chars": 17,
+     "lines": 1,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Vollkorn",
+     "weight": 600,
+     "tracking": -0.012,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.73,
+     "top": 136,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Come by for a cup",
+     "words": 5,
+     "lines": 1,
+     "size": 36,
+     "font": "Vollkorn"
+    },
+    "headings": [
+     {
+      "text": "Isut",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Come by for a cup",
+      "words": 5,
+      "chars": 17,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.73,
+      "top": 136,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "What to expect",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1230,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "5.0",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1351,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "25 min to 2.5 hr",
+      "words": 5,
+      "chars": 16,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 10,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1546,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "₱1 to ₱500",
+      "words": 3,
+      "chars": 10,
+      "lines": 1,
+      "size": 39.1,
+      "vw": 10,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1708,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Ways to reach us",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.012,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2861,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Isut Cafe + Roastery",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Vollkorn",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3266,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Hanken Grotesk",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "Vollkorn",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      20,
+      25,
+      32,
+      36,
+      39,
+      40,
+      44
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Hanken Grotesk",
+      "size": 18,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 14.8
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Vollkorn",
+      "text": "5.0"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.04,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f1df",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.6,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee6d1",
+       "top": 2437,
+       "hsl": {
+        "h": 43,
+        "s": 0.46,
+        "l": 0.88
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#072311",
+       "share": 0.48
+      },
+      {
+       "color": "#4d5d4c",
+       "share": 0.46
+      },
+      {
+       "color": "#f8f5ea",
+       "share": 0.02
+      },
+      {
+       "color": "#1f6a19",
+       "share": 0.02
+      },
+      {
+       "color": "#223c28",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#072311",
+      "hsl": {
+       "h": 141,
+       "s": 0.67,
+       "l": 0.08
+      },
+      "fg": "#f8f5ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get directions",
+      "Call 0924 418 2687"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "vollkorn",
+     "vollkorn fallback",
+     "hanken grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 3864,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.counter",
+      "tag": "section",
+      "top": 72,
+      "height": 1086,
+      "words": 76,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Come by for a cup",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1158,
+      "height": 1223,
+      "words": 38,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "5.0",
+       "size": 44,
+       "tag": "dd"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section--s",
+      "tag": "section",
+      "top": 2381,
+      "height": 790,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Ways to reach us",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 86,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3170,
+      "height": 693,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Isut Cafe + Roastery",
+       "size": 40,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Come by for a cup",
+      "size": 36,
+      "top": 136,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f7f1df, section #eee6d1, text #f8f5ea).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "10 different font sizes (13, 14, 16, 21, 25, 39, 52, 60, 84, 101).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 9 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/visit/desktop-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/visit/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/visit/tablet-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/visit/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/visit/mobile-fold.jpg",
+   "pages": [
+    "/Users/justineapdal/projects/isutcaferoastery/.taste-skill/inspect/visit/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
